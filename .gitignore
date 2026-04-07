@@ -1,0 +1,26 @@
+# AI Training Data (Ignore large files)
+pharmgeno_dataset.jsonl
+*.jsonl
+pharmgeno-model-results/
+pharmgeno-model-final/
+gemma4-pharmgeno-model/
+gemma4-pharmgeno-final/
+
+# Environment Variables (CRITICAL: Do not upload your API keys)
+.env
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+
+# System specific
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/

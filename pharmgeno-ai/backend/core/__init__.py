@@ -1,0 +1,1 @@
+# PharmGeno AI Core Module
