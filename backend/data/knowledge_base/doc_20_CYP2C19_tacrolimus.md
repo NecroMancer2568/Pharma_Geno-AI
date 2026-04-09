@@ -1,0 +1,15 @@
+---
+drug: tacrolimus
+evidence_level: 1B
+gene: CYP2C19
+source: CPIC
+---
+
+### Clinical Mechanism
+The interaction between CYP2C19 and tacrolimus has significant clinical implications. CYP2C19 is primarily responsible for the metabolism of tacrolimus. 
+
+### Clinical Consequence
+Poor metabolizers of CYP2C19 experience significantly altered systemic exposure to tacrolimus, leading to increased risk of toxicity or lack of efficacy. Normal metabolizers achieve standard therapeutic concentrations.
+
+### CPIC Dosing Recommendation
+For poor metabolizers, consider an alternative medication or a drastic dose reduction (e.g., 50%). For rapid/ultrarapid metabolizers, standard dosing may be inadequate, requiring close monitoring or alternative therapy.
