@@ -8,6 +8,7 @@ gemma4-pharmgeno-final/
 
 # Environment Variables (CRITICAL: Do not upload your API keys)
 .env
+.env.example
 
 # Python specific
 __pycache__/
